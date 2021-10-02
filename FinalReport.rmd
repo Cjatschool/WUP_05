@@ -27,6 +27,12 @@ For this project we will use categorical~categorical because the data used is or
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
+```{r}
+WomanData=filter(triUmp,gender=="F")
+head(WomanData)
+```
+
+
 ## Descriptive Results
 
 ### Graphical Descriptive Results
