@@ -1,6 +1,6 @@
 ---
 title: "Aides Drug"
-author: "Christina Jilavdaryan"
+author: "Christina  Jilavdaryan"
 date: "10/2/21"
 output: html_document
 ---
