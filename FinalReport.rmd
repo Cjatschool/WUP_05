@@ -33,6 +33,8 @@ head(WomanData)
 ```
 
 
+These are the data for the women in the study showing who got the drug vs who got the placebo.
+
 ## Descriptive Results
 
 ### Graphical Descriptive Results
